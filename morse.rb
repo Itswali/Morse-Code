@@ -16,10 +16,3 @@ def single_word(morse_word)
   msg_word += ' '
 end
 
-def decode(morse_code)
-  morse_code.split('   ').each do |word|
-    print single_word(word)
-  end
-end
-
-decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
