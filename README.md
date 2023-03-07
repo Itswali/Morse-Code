@@ -83,10 +83,15 @@ This repository includes files with ruby code that can be used to decode any mor
 <a name="authors"></a>
 ## 👥 Authors
 
+👤 **Wali-Muhammad**
 
-/
+- GitHub: [@Itswali](https://github.com/Itswali)
+- Twitter: [@Wali-Muhammad](https://twitter.com/WaliMuh94818599)
+- LinkedIn: [@Wali Muhammad](https://www.linkedin.com/in/wali-muhammad-666040244/)
 
+👤 *Pierre Barba*
 
+- LinkedIn: [Pierre Barba](https://www.linkedin.com/in/jean-pierre-barba/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
