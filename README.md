@@ -120,6 +120,6 @@ I would like to thanks [Microverse](https://www.microverse.org/) to guide me to 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Itswali/Morse-Code/LICENSE.md) licensed.
+This project is [MIT](https://github.com/Itswali/Morse-Code/blob/main/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
